@@ -9,7 +9,7 @@ Data cleaning :-
 Data cleaning is an important step in the data analytics process in which you either remove or update information that is incomplete or improperly formatted. Fields like eventid, approxdate, resolution, addnotes, extended, etc. are removed since they are not relevant to the analysis of this project. Fields like having Nan values were handled by replacing Nan values to workable ones.
 
 Exploratory Data Analysis :-
-In this step, we explored the data by understanding it and do some computations over it and create relevant datafran=mes to be able to plot thm into graphs for the visualization purpose.
+In this step, we explored the data by understanding it and do some computations over it and create relevant dataframes to be able to plot thm into graphs for the visualization purpose.
 
 Data Visualization:
 This is the most important step in which we created graphs to see the results visually and made them end user-ready. This step also helps us to make conclusions out of the explored data as we have stated those below.
